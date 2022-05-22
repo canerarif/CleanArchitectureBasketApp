@@ -1,5 +1,5 @@
-# CicekSepetiBasket
-Cicek Sepeti Case Study
+# BasketApp
+This project is a clean architecture example
 
 ## Technologies
 
@@ -14,7 +14,7 @@ Cicek Sepeti Case Study
 
 ## Follow these steps to install the application:
 1. Clone this repository on your local.
-2. Go to the CicekSepetiBasket directory
+2. Go to the CleanArchitectureBasketApp directory
 3. Run the `docker-compose up` at command line
 4. Run `http://localhost:8080/swagger/index.html` url in your browser
 
